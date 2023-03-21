@@ -1,15 +1,17 @@
 # Driver Flutter Project
 This project is a Flutter application for managing driver tasks.
 
-there only two user 
+##there only two user 
 
-## userName: amr, password: admin@123 id ==> 1
+userName: amr, password: admin@123 id ==> 1
 
-## userName: mohammed, password: admin@123 id ==> 2 
+userName: mohammed, password: admin@123 id ==> 2 
 
-## so in the admin app when i assign task to user i need to put id 1 for amr and 2 for mohammed in the assigned Text filed
+so in the admin app when i assign task to user.
 
-## after assign task to user will send a notification to the user
+i need to put id 1 for amr and 2 for mohammed in the assigned Text filed
+
+after assigning task to user will send a notification to user assigned to.
 
 
 # Project Architecture
