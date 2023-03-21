@@ -1,5 +1,13 @@
-## Driver Flutter Project
+# Driver Flutter Project
 This project is a Flutter application for managing driver tasks.
+
+there only two user 
+
+## userName: amr, password: admin@123 id ==> 1
+
+## userName: mohammed, password: admin@123 id ==> 2 
+
+## so in the admin app when i assign task to user i need to id 1 for amr and 2 for mohammed
 
 
 # Project Architecture
@@ -32,7 +40,7 @@ flutter pub get
 
 to run the Driver app
 
-To run the app, you must use an emulator to ensure that the local server is accessible. Running the app on a physical device may result in errors due to the inability to connect to the local server.
+## To run the app, you must use an emulator to ensure that the local server is accessible. Running the app on a physical device may result in errors due to the inability to connect to the local server.
 
 To run the app on an emulator, use the following command:
 
