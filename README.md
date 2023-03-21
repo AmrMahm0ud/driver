@@ -9,6 +9,8 @@ there only two user
 
 ## so in the admin app when i assign task to user i need to put id 1 for amr and 2 for mohammed in the assigned Text filed
 
+## after assign task to user will send a notification to the user
+
 
 # Project Architecture
 This project follows the Clean Architecture pattern, which separates the application into distinct layers that are responsible for specific tasks. The layers are as follows:
