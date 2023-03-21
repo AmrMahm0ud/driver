@@ -42,7 +42,6 @@ flutter pub get
 
 # Running the App
 
-to run the Driver app
 
 ## To run the app, you must use an emulator to ensure that the local server is accessible. Running the app on a physical device may result in errors due to the inability to connect to the local server.
 
