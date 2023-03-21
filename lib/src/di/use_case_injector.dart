@@ -1,6 +1,7 @@
 import 'package:untitled/src/di/data_layer_injector.dart';
 import 'package:untitled/src/domain/usecase/add_task/add_task_use_case.dart';
 import 'package:untitled/src/domain/usecase/login/login_use_case.dart';
+import 'package:untitled/src/domain/usecase/login/remove_user_id_use_case.dart';
 import 'package:untitled/src/domain/usecase/login/set_user_id_use_case.dart';
 import 'package:untitled/src/domain/usecase/tasks/change_task_order_use_case.dart';
 import 'package:untitled/src/domain/usecase/tasks/get_tasks_use_case.dart';
@@ -13,4 +14,6 @@ Future<void> initializeUseCaseDependencies() async {
   injector.registerFactory<ChangeTaskOrderUseCase>(
       () => ChangeTaskOrderUseCase(injector()));
   injector.registerFactory<AddTaskUseCase>(() => AddTaskUseCase(injector()));
+  injector.registerFactory<RemoveUserIdUseCase>(
+      () => RemoveUserIdUseCase(injector()));
 }
