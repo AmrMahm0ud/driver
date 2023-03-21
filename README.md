@@ -36,6 +36,8 @@ To run the app, you must use an emulator to ensure that the local server is acce
 
 To run the app on an emulator, use the following command:
 
+to run the driver app
+
 flutter run --flavor driver -t lib/main_driver.dart
 
 to run the Driver admin app
