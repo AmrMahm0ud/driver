@@ -10,6 +10,7 @@ Presentation Layer: This layer is responsible for handling user interface-relate
 Domain Layer: This layer represents the business logic and rules of the application. It should be independent of any specific user interface or data storage technology.
 
 Data Layer: This layer is responsible for handling data storage and retrieval. It should also be independent of any specific user interface or business logic.
+
 Clean Architecture emphasizes the importance of dependency inversion, which means that higher-level layers should not depend on lower-level layers.
 Each layer should define interfaces that define the communication between layers, making it easier to change one layer without affecting the others.
 
