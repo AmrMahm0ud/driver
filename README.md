@@ -8,3 +8,12 @@ Once you have Flutter installed, you can clone the "driver" project from the Git
 
 git clone https://github.com/AmrMahm0ud/driver.git
 
+
+After cloning the project, you'll need to run the following command to install the project's dependencies:
+
+flutter pub get
+
+# Running the App
+
+
+
