@@ -15,5 +15,15 @@ flutter pub get
 
 # Running the App
 
+to run the Driver app
+
+flutter run --flavor driver -t lib/main_driver.dart
+
+
+to run the Driver admin app
+
+flutter run --flavor driver -t lib/main_driver_admin.dart
+
+
 
 
