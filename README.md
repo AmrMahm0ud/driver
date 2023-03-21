@@ -7,7 +7,7 @@ there only two user
 
 ## userName: mohammed, password: admin@123 id ==> 2 
 
-## so in the admin app when i assign task to user i need to id 1 for amr and 2 for mohammed
+## so in the admin app when i assign task to user i need to put id 1 for amr and 2 for mohammed in the assigned Text filed
 
 
 # Project Architecture
