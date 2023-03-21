@@ -32,6 +32,10 @@ flutter pub get
 
 to run the Driver app
 
+To run the app, you must use an emulator to ensure that the local server is accessible. Running the app on a physical device may result in errors due to the inability to connect to the local server.
+
+To run the app on an emulator, use the following command:
+
 flutter run --flavor driver -t lib/main_driver.dart
 
 to run the Driver admin app
